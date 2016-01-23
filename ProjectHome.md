@@ -1,0 +1,1 @@
+With this module, users can use LAMMPS MD simulations with NEB method.
